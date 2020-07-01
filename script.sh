@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "this script is hosted in github"
+echo "changed"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 
 echo "$NUMBER"
